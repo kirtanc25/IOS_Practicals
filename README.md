@@ -5,4 +5,5 @@ All practical description are given in Practical_List.pdf
 
 NOTE:
 Practical 7 aim is updated as under.
-Write a program to demonstrate the handling of the signals: SIGINT,SIGALRM & SIGQUIT.
+
+7. Write a program to demonstrate the handling of the signals: SIGINT,SIGALRM & SIGQUIT.
