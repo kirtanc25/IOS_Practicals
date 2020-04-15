@@ -1,0 +1,2 @@
+I will be printed in the file dup2.txt
+file_desc_after: 3

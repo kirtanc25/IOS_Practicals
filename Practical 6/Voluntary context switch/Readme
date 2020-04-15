@@ -1,0 +1,7 @@
+1. First create directory named 'files'.
+2. Move 'files' directory by 'cd files' command.
+3. Then run following command:
+	touch foo0.txt
+	head -c 1048506 </dev/urandom >foo0.txt
+	for f in foo{1..1999}.txt; do cp foo0.txt $f; done
+4. Now run main file
